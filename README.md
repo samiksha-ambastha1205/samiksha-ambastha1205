@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=I+like+understanding+why+things+work%2C+not+just+that+they+do.;Currently+building+a+voice-to-sign-language+bionic+hand.;Backend+%2B+AI+%2B+Robotics." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=I+like+understanding+why+things+work.;Building+a+voice-to-sign-language+bionic+hand.;Backend+%2B+AI+%2B+Robotics." alt="Typing SVG" width="90%" />
 </a>
 </p>
 
@@ -71,12 +71,12 @@
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=samiksha-ambastha1205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samiksha-ambastha1205&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=samiksha-ambastha1205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=380" width="46%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samiksha-ambastha1205&layout=compact&theme=tokyonight&hide_border=true&card_width=380" width="46%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=samiksha-ambastha1205&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=samiksha-ambastha1205&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
 
 <p align="center">
