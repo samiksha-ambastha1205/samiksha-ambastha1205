@@ -97,12 +97,24 @@
 </p>
 
 <p align="center">
+<sub><b>NotionFlow</b> — A workspace app with notes organized into workspaces and nested pages, built full-stack and typed end to end to feel like a small SaaS product rather than a CRUD demo.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Reel->Notes</b> — Turns any YouTube video into a summary, key concepts, flashcards, a quiz, and clickable timestamps. Paste a link, no sign-up.</sub>
+</p>
+
+<p align="center">
 <a href="https://github.com/samiksha-ambastha1205/Price_Predictor">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=samiksha-ambastha1205&repo=Price_Predictor&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
 <a href="https://github.com/samiksha-ambastha1205/AuroraAlert_Backpropagators">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=samiksha-ambastha1205&repo=AuroraAlert_Backpropagators&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
+</p>
+
+<p align="center">
+<sub><b>Price Predictor</b> — A full-stack ML app predicting prices for houses, cars, laptops, and phones, using custom-built algorithms with a React frontend and FastAPI backend.</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>AuroraAlert</b> — An ML system predicting solar flare activity from real-time solar data, combining ensemble learning with an interactive alerts dashboard.</sub>
 </p>
 
 ---
