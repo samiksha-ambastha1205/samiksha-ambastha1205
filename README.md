@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=I+like+understanding+why+things+work.;Building+a+voice-to-sign-language+bionic+hand.;Backend+%2B+AI+%2B+Robotics." alt="Typing SVG" width="90%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=440&lines=I'd+rather+understand+the+why+than+just+ship+the+what.;Backend+%2B+AI+%2B+Robotics." alt="Typing SVG" width="90%" />
 </a>
 </p>
 
@@ -109,7 +109,7 @@
 
 ### In Progress
 
-A voice-to-sign-language conversion bionic hand — combining speech recognition with robotic actuation to translate spoken language into sign language gestures in real time. This is where most of my robotics curiosity is going right now.
+Currently teaching a robotic hand to speak in sign language — a voice-to-sign-language conversion bionic hand that combines speech recognition with robotic actuation to translate spoken language into sign language gestures in real time. This is where most of my robotics curiosity is going right now.
 
 ---
 
