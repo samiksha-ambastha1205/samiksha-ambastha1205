@@ -1,9 +1,11 @@
-<h1 align="center">Samiksha Ambastha</h1>
-<h3 align="center">Building backend systems, AI tools, and — lately — a robotic hand</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3b82f6&height=180&section=header&text=Samiksha%20Ambastha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%2B%20AI%20%2B%20Robotics&descAlignY=58&descSize=18"/>
+</p>
 
 <p align="center">
-I like taking something apart until I understand why it works, then building it back up better.
-Right now that means backend architecture, applied AI, and my first real robotics project.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=I+like+understanding+why+things+work%2C+not+just+that+they+do.;Currently+building+a+voice-to-sign-language+bionic+hand.;Backend+%2B+AI+%2B+Robotics." alt="Typing SVG" />
+</a>
 </p>
 
 <p align="center">
@@ -68,32 +70,40 @@ Right now that means backend architecture, applied AI, and my first real robotic
 
 ### GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=samiksha-ambastha1205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samiksha-ambastha1205&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=samiksha-ambastha1205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=samiksha-ambastha1205&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samiksha-ambastha1205&theme=tokyonight&hide_border=true" width="70%"/>
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=samiksha-ambastha1205&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samiksha-ambastha1205&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-> Note: if any of the stat cards above show blank, it's usually because `github-readme-stats` and `streak-stats` are community-hosted services that occasionally sleep or rate-limit — reload the README page on GitHub after a minute, or regenerate the link at [github-readme-stats.vercel.app](https://github-readme-stats.vercel.app).
-
 ---
 
 ### Featured Projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[NotionFlow](https://github.com/samiksha-ambastha1205/NotionFlow)** | Workspace and notes management platform with JWT-based auth and a relational schema built from scratch | React · TypeScript · Express.js · Prisma · PostgreSQL |
-| **[Reel->Notes](https://github.com/samiksha-ambastha1205/YouTube--Notes)** | Turns YouTube videos into summaries, quizzes, flashcards, and structured study notes using LLMs | JavaScript · LLM APIs |
-| **[Price Predictor](https://github.com/samiksha-ambastha1205/Price_Predictor)** | Predicts prices from historical data using trained ML models | Python · Jupyter Notebook |
-| **[AuroraAlert](https://github.com/samiksha-ambastha1205/AuroraAlert_Backpropagators)** | Real-time alerting and data-processing project | Python |
-| **RoboManipal Contributions** | Work done as part of Team RoboManipal, Manipal's robotics team | C++ · Robotics tooling |
+<p align="center">
+<a href="https://github.com/samiksha-ambastha1205/NotionFlow">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=samiksha-ambastha1205&repo=NotionFlow&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+<a href="https://github.com/samiksha-ambastha1205/YouTube--Notes">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=samiksha-ambastha1205&repo=YouTube--Notes&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/samiksha-ambastha1205/Price_Predictor">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=samiksha-ambastha1205&repo=Price_Predictor&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+<a href="https://github.com/samiksha-ambastha1205/AuroraAlert_Backpropagators">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=samiksha-ambastha1205&repo=AuroraAlert_Backpropagators&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+</p>
 
 ---
 
@@ -109,4 +119,8 @@ System Design · Distributed Systems · Machine Learning · ROS 2 · Docker · K
 
 ---
 
-> *"The best way to learn is to build."*
+<p align="center">
+<i>"The best way to learn is to build."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=100&section=footer"/>
