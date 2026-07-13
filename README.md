@@ -135,6 +135,7 @@ An ML system predicting solar flare activity from real-time solar data, combinin
 ### In Progress
 
 Currently teaching a robotic hand to speak in sign language — a voice-to-sign-language conversion bionic hand that combines speech recognition with robotic actuation to translate spoken language into sign language gestures in real time. This is where most of my robotics curiosity is going right now.
+Working on a cybersec and ml intergrated project under guidance of a professor.
 
 ---
 
